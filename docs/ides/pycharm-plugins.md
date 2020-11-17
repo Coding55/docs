@@ -1,0 +1,25 @@
+# Plugins para usar com PyCharm
+
+- .env files support
+- .ignore
+- Atom Material Icons
+- Azure Devops
+- Batch Scripts Support
+- Bootstrap 4, Font awesome 5, Font awesome 5
+- CMD Support
+- Code With Me
+- EduTools
+- (Opcional) Datalore
+- EnvFile
+- HighlightBracketPair
+- IdeaVim (para aqueles que sabem Vim)
+- Ideolog
+- Key Promoter X
+- Kite AI
+- (Opcional) Material Theme UI
+- Rainbow Brackets
+- Requirements
+- Sass Lint
+- SASS Sorter
+- Save Actions
+- SonarLint
